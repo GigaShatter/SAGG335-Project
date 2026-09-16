@@ -1,2 +1,3 @@
-# SAGG335 Project
+# SAGG335 Project Ivan Ruffin
+
 
